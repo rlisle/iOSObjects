@@ -8,5 +8,5 @@ Pods/
 .DS_Store
 Frameworks/
 *.pbxuser
-xcuserdata
+xcuserdata/
 *.xcworkspace
